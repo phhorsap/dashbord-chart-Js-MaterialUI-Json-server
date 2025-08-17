@@ -3,5 +3,7 @@
 
 1. npm install -g @angular/cli
 2. ng add @angular/material
+3. npm install chart.js ng2-charts
+
 
 
